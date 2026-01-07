@@ -1,0 +1,5 @@
+name = "first-hono"
+type = "javascript"
+
+[dev]
+port = 5173
